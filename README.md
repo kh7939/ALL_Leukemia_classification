@@ -1,2 +1,2 @@
-# ALL_classification
-Deep learning model for acute lymphoblastic leukemia classification
+# ALL_Leukemia_classification
+Deep learning model for Acute Lymphoblastic Leukemia(ALL) classification
