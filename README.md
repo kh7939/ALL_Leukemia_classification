@@ -1,5 +1,6 @@
 # ALL_Leukemia_classification
-Deep learning model for Acute Lymphoblastic Leukemia(ALL) classification
+Deep learning model for Acute Lymphoblastic Leukemia(ALL) classification<br/>
+Due to limited computatinoal resource, I was not able to test more complex and better performing models, but the best Validation Accuracy I have got is 80.99%
 
 # My customCNN
 ```
